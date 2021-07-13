@@ -231,6 +231,7 @@ class Student:
                    self.Student_table.insert('',END,values=row)
                con.commit()
         con.close()
+        
 
 
 root = Tk()
