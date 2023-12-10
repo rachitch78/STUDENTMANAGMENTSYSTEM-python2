@@ -105,7 +105,7 @@ class Student:
         combo_search['values']=("roll_no","name","contact")
         combo_search.grid(row=0,column=1,padx=20,pady=20)
         
-
+       
         txt_search=Entry(Detail_Frame,textvariable=self.search_txt,width=20,font=("times new roman",10,"bold"),bd=5,relief=GROOVE)
         txt_search.grid(row=0,column=2,pady=10,padx=20,sticky="w")
 
