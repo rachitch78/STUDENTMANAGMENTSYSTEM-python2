@@ -1,3 +1,3 @@
 # STUDENTMANAGMENTSYSTEM-python2
-A simple student management system 
-with python
+A Simple student management system 
+with python 
